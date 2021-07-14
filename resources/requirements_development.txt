@@ -3,7 +3,7 @@ coverage==5.5
 docformatter==1.4
 pipdeptree==2.0.0
 pytest==6.2.4
-sphinx==4.0.2
+sphinx==4.1.1
 pylint==2.8.3
 reorder-python-imports==2.5.0
 sphinx_rtd_theme==0.5.2
